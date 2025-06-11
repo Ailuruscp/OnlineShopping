@@ -6,4 +6,5 @@ public class Demo {
     int c;
     int d;
     int e;
+    public void abranch(){}
 }
